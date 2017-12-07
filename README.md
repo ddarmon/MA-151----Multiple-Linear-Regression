@@ -1,4 +1,4 @@
-MA 151 &mdash; Lecture ## &mdash; Multiple Linear Regression
+MA 151 &mdash; Lecture 26 &mdash; Multiple Linear Regression
 ==================================================
 
 Additional Reading
